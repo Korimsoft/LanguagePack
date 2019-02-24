@@ -11,6 +11,11 @@
     <string name="cs_qwerty_keyboard_diacritic">Czech qwerty with diacritic keys</string>
     <string name="cs_qwertz_keyboard_diacritic">Czech qwertz with diacritic keys</string>
     <string name="cs_keyboard_diacritic_description">Contains caron and acute keys</string>
+<<<<<<< HEAD
     <string name="cs_qwerty_compact">Czech qwerty compact</string>
     <string name="cs_qwerty_compact_description">Compact in portrait</string>
+=======
+    <string name="compact_keyboard">Czech Compact</string>
+    <string name="compact_keyboard_description">Czech qwerty, compact in portrait</string>
+>>>>>>> 3d71b5f... Compact qwerty layout for czech keyboard
 </resources>

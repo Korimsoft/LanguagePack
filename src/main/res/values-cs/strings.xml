@@ -11,6 +11,11 @@
     <string name="cs_qwerty_keyboard_diacritic">Česká klávesnice qwerty s diakritickýmy klávesamy</string>
     <string name="cs_qwertz_keyboard_diacritic">Česká klávesnice qwertz s diakritickýmy klávesamy</string>
     <string name="cs_keyboard_diacritic_description">Obsahuje klávesy háčky a čárky</string>
+<<<<<<< HEAD
     <string name="cs_qwerty_compact">Česká kompaktní qwerty</string>
     <string name="cs_qwerty_compact_description">Kompaktní zobrazení v režimu na výšku</string>
+=======
+    <string name="compact_keyboard">Česká kompaktní qwerty</string>
+    <string name="compact_keyboard_description">Kompaktní zobrazení v režimu na výšku</string>
+>>>>>>> 3d71b5f... Compact qwerty layout for czech keyboard
 </resources>
