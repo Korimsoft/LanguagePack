@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p">
+
+    <Row>
+        <Key android:codes="q,w" android:keyLabel="qw" android:popupCharacters="°`^|~" android:keyEdgeFlags="left"/>
+        <Key android:codes="e,r" android:keyLabel="er" android:popupCharacters="éěřë€"/>
+        <Key android:codes="t,y" android:keyLabel="ty" android:popupCharacters="ťý"/>
+        <Key android:codes="u,i" android:keyLabel="ui" android:popupCharacters="úůíü"/>
+        <Key android:codes="o,p" android:keyLabel="op" android:popupCharacters="óö" android:keyEdgeFlags="right" />
+    </Row>
+
+    <Row>
+        <Key android:codes="a,s" android:keyLabel="as" android:popupCharacters="ášäß" android:keyEdgeFlags="left"/>
+        <Key android:codes="d,f" android:keyLabel="df" android:popupCharacters="ďĐ["/>
+        <Key android:codes="g,h" android:keyLabel="gh" android:popupCharacters="-_]"/>
+        <Key android:codes="j,k" android:keyLabel="jk" android:popupCharacters="!?;'"/>
+        <Key android:codes="l" android:keyLabel="l" android:popupCharacters="ľłŁ" android:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key android:keyWidth="15%p" android:codes="-1"
+            android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
+        <Key android:horizontalGap="5%p" android:keyWidth="15%p" android:codes="z,x" android:keyLabel="zx" android:popupCharacters="ž#"/>
+        <Key android:keyWidth="15%p" android:codes="c,v" android:keyLabel="cv" android:popupCharacters="č&amp;@"/>
+        <Key android:keyWidth="15%p" android:codes="b,n" android:keyLabel="bn" android:popupCharacters="ň{}"/>
+        <Key android:keyWidth="15%p" android:codes="m" android:keyLabel="m"/>
+        <Key android:horizontalGap="5%p" android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
+    </Row>
+</Keyboard>

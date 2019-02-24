@@ -38,4 +38,10 @@
 		id="6480fe40-5e6b-4ea5-80ba-46ef89ca0670" description="@string/cs_keyboard_diacritic_description"
 		index="5" physicalKeyboardMappingResId="@xml/cs_qwertz_physical"
 		defaultDictionaryLocale="cs" />
+
+	<Keyboard nameResId="@string/cs_qwerty_compact" iconResId="@drawable/cs"
+		layoutResId="@xml/cs_qwerty_compact"  landscapeResId="@xml/cs_qwerty"
+		id="8bfee100-381b-11e9-b56e-0800200c9a66" description="@string/cs_qwerty_compact_description"
+		index="5" physicalKeyboardMappingResId="@xml/cs_qwerty_physical"
+		defaultDictionaryLocale="cs" />
 </Keyboards>
